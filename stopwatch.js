@@ -102,3 +102,4 @@ function Reset() {
     clearInterval(event_value);
     start_btn.innerText = "START";   
 }
+// It is a Stopwatch Project For Coding Ninja
